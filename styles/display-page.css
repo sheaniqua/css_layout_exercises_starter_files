@@ -1,0 +1,42 @@
+main {
+  width: 800px;
+  font-size: 0;
+  border: 2px solid black;
+}
+.box {
+  border: 2px solid black;
+}
+.top {
+  height: 200px;
+  width: 50%;
+  display: inline-block;
+
+}
+
+.green-one {
+  background-color: green;
+}
+
+.blue-one {
+  background-color: blue;
+}
+
+.bottom {
+  height: 300px;
+  width: 33.3333%;
+  display: inline-block;
+
+}
+
+
+.gray-one {
+  background-color: gray;
+}
+
+.black-one {
+  background-color: black;
+}
+
+.orange-one {
+  background-color: orange;
+}
